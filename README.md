@@ -7,7 +7,7 @@
 >So, here I have made some changes to APIs for better clarity and compatibility. Although the idea and end goal is same as required.
 
 ### Check both parts accordingly
->Go into any folder and hit npm start according to instructions.
+>Clone this repo and Go into any folder and hit npm start according to instructions.
 >So, you can easily check accordingly if you just want the APIs to check first you can run the only API folder part and then you want to see
 the full stack app functionality you can go and run the second folder.
 >Thank you!
